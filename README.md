@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Zahaab Khawaja. I am a freshman at Bilkent University studying computer engineering!
+
 <!--
 **Agast0/Agast0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
