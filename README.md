@@ -1,18 +1,29 @@
-### Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-My name is Zahaab Khawaja. I am a student at Bilkent University studying computer engineering!
+## About Me
+Hello there! I'm a passionate and dedicated computer engineering student with eight months of hands-on industry experience in a full-stack role. I've honed my skills in creating software using a variety of technologies, including Node.js, Socket.io, Mediasoup, React, and Next.js. My journey also encompasses projects and experience with RESTful APIs and Spring Boot.
 
-<!--
-**Agast0/Agast0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What Sets Me Apart
+What sets me apart is not just my technical proficiency but also my relentless drive to learn and improve. As a third-year student at Bilkent University, I consistently strive to enhance myself both personally and professionally. My exposure to various technologies and projects has equipped me with a comprehensive understanding of the software development life cycle.
 
-Here are some ideas to get you started:
+## Projects Highlights
+Here are some of the exciting projects I've worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[CampusConnect](https://github.com/SCORPIA2004/CampusConnect)**
+  - Built with MongoDB, Express, React, and Socket.IO for real-time communication.
+  - Provided a seamless and secure platform for Bilkent University, enhancing campus community engagement and security.
+
+- **[MovieCatalog](https://github.com/Agast0/MovieCatalog)**
+  - A movie catalog application using Spring Boot, Spring Security, React, and MongoDB.
+  - Implemented features for easy movie addition, search, and management.
+
+- **[Signal Forwarding Unit (SFU)](https://github.com/Agast0/SFU)**
+  - Increased efficiency of real-time connections in conference calls using WebRTC.
+
+These are just a few examples, and there's much more to explore!
+
+## Education
+**Bilkent University, Faculty of Engineering, Ankara, Turkey**
+- B.S. in Computer Engineering (Ongoing)
+
+Feel free to explore my repositories, and let's connect! I'm always excited about contributing to innovative projects and learning new things. 😊🚀
