@@ -19,6 +19,10 @@ Here are some of the exciting projects I've worked on:
 
 - **[Signal Forwarding Unit (SFU)](https://github.com/Agast0/SFU)**
   - Increased efficiency of real-time connections in conference calls using WebRTC.
+ 
+- **[TaskManager Backend ASP.NET Core](https://github.com/Agast0/TaskManager-ASP.NET-Core)**
+  - Task manager app built using ASP.NET Core and MSSQL.
+  - Integrated JWT Auth and Swagger UI.
 
 These are just a few examples, and there's much more to explore!
 
