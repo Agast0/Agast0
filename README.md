@@ -23,6 +23,11 @@ Here are some of the exciting projects I've worked on:
 - **[TaskManager Backend ASP.NET Core](https://github.com/Agast0/TaskManager-ASP.NET-Core)**
   - Task manager app built using ASP.NET Core and MSSQL.
   - Integrated JWT Auth and Swagger UI.
+ 
+- **[LeafletJs React Nodejs App](https://github.com/Agast0/LeafletJs-React-Nodejs-App/)**
+  - A map-based application developed using React, Leaflet.js, and Node.js.
+  - Allows users to save marked points on the map.
+  - Provides a user-friendly interface for interacting with geographical data.
 
 These are just a few examples, and there's much more to explore!
 
